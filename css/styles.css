@@ -1,0 +1,146 @@
+body{
+  font-family: "Century Gothic";
+}
+#title{
+  background-color:#629632;
+  color: #fff;
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+h1{
+  font-family: "Century Gothic";
+  font-weight: bold;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+h2{
+  font-family: "Century Gothic";
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+h3{
+  font-weight: bold;
+  font-family: "Century Gothic";
+    font-size: 1.5rem;
+}
+p{
+  color: #8f8f8f;
+}
+.navbar{
+  padding-bottom: 4.5rem;
+}
+.navbar-brand{
+  font-family: "Century Gothic";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "Century Gothic";
+}
+.Download-button{
+  margin: 5% 3% 5% 0;
+}
+.title-image{
+  width: 60%;
+
+}
+#features{
+  padding: 7% 15%;
+}
+.feature-box{
+  padding: 5%;
+  text-align: center;
+}
+.owl{
+  color: #629632;
+  margin-bottom: 1rem;
+}
+
+/* TESTIMONIAL SECTION */
+#testimonials{
+
+  text-align: center;
+  background-color: #629632;
+  color: #FFF;
+}
+.testimonial-image{
+  width:30%;
+  border-radius: 100%;
+  margin: 20px;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+#pricing{
+  padding: 100px;
+  text-align: center;
+
+}
+.pricing-column{
+  padding: 3% 2%;
+}
+.bottom-container{
+  background-color:  #629632;
+  padding: 20px;
+
+}
+
+.footer-link {
+  color: #013220;
+  font-family: 'Montserrat',sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+.footer-link:hover{
+  color: #EAF6F6;
+  text-decoration: none;
+}
+.copyright{
+
+  color:#EAF6F6;
+  font-size: 0.75rem;
+  font-family: 'Montserrat',sans-serif;
+  padding-bottom: 20px 0;
+}
+.btne {
+  background: #013220;
+  background-image: -webkit-linear-gradient(top, #013220, #629632);
+  background-image: -moz-linear-gradient(top, #013220, #629632);
+  background-image: -ms-linear-gradient(top, #013220, #629632);
+  background-image: -o-linear-gradient(top, #013220, #629632);
+  background-image: linear-gradient(to bottom, #013220, #629632);
+  -webkit-border-radius: 23;
+  -moz-border-radius: 23;
+  border-radius: 23px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  border: solid #1f628d 0px;
+  text-decoration: none;
+}
+
+.btne:hover {
+  background: #6e9e41;
+  background-image: -webkit-linear-gradient(top, #6e9e41, #89f525);
+  background-image: -moz-linear-gradient(top, #6e9e41, #89f525);
+  background-image: -ms-linear-gradient(top, #6e9e41, #89f525);
+  background-image: -o-linear-gradient(top, #6e9e41, #89f525);
+  background-image: linear-gradient(to bottom, #6e9e41, #89f525);
+  text-decoration: none;
+}
